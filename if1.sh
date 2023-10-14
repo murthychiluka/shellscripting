@@ -1,5 +1,5 @@
 read -p "Enter a number: " NUM
-if[$NUM gt 100]
+if [$NUM -gt 100]
 then
 echo "We have entered in IF block"
 sleep 3
