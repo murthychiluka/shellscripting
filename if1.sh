@@ -6,6 +6,8 @@ sleep 3
 echo "Your number is greater than 100"
 echo
 date
+else
+  echo "You have entered a number which is less than 100"
 fi
 
 
