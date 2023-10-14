@@ -6,4 +6,4 @@ echo "Your $SKILLS Skill is very high demand in the IT industry"
 read -p 'User name: ' USR
 read -sp 'Password: ' Pass
 echo
-echo "Login successful: Wlecome USER $USR"
+echo "Login successful: Welcome User $USR"
